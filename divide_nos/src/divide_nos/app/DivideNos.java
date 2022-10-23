@@ -6,7 +6,9 @@ public class DivideNos {
 		int a = 10, b = 20, c= 0;
 		
 		c = b/a;
+		System.out.println("Division of two nos.");		
 		System.out.println(c);
+
 	}
 
 }
