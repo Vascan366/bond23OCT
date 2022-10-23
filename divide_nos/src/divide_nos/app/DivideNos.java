@@ -7,6 +7,7 @@ public class DivideNos {
 		
 		c = b/a;
 		System.out.println("Division of two nos.");		
+		System.out.println("---------------------------------");
 		System.out.println(c);
 
 	}
